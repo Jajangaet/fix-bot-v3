@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/hamzz_jr' // ig
+global.sig = 'https://instagram.com/engkus3806' // ig
 global.sgh = 'https://github.com/HamzBotzzzzz/' // github
-global.sgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/KgYP2dONjiMAS3GxiDpR2d' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/c/Hamz9999+' // my youtube channel
+global.snh = 'https://www.youtube.com/c/DevilTheDark' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '088214989352' //dana
+global.pdana = '081384020996' //dana
 global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '088214989352' //telkomsel
-global.ppulsa2 = '0881023363385' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/ZxynnBotz'
+global.ppulsa = '081384020996' //telkomsel
+global.ppulsa2 = '081384020996' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/ZynnTzy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '48699527648'
-global.nomorown = '6288214989352'
-global.namebot = 'ZxynnBoTz-MD'
-global.nameown = 'IlhamGanzz'
+global.nomorbot = '625315322636'
+global.nomorown = '621384020996'
+global.namebot = 'ZynnBoTz-MD'
+global.nameown = 'Zynn Tzy'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'HamzBotzzzzz' // nama github lu
-global.linkgithub = 'https://github.com/HamzBotzzzzz' // tarok link github lu
+global.namagithub = 'Jajangaet' // nama github lu
+global.linkgithub = 'https://github.com/Jajangaet' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288214989352', 'IlhamGanzz', true],
-  ['97696488500', 'IlhamGanzz 2', true],
+  ['621384020996', 'Zynn Tzy', true],
+  ['62895361129393', 'Zynn Tzy 2', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZxynnBoTz-MD 」' //Main Watermark
+global.wm = '                「 ZynnBoTz-MD 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZxynnBoTz-MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZxynnBoTz-MD '
+global.wm3 = '⫹⫺ ZynnBoTz-MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By IlhamGanzz`
-global.packname = '☂ IlhamGanzz'
-global.author = '                「 ZxynnBoTz-MD  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Zynn Tzy`
+global.packname = '☂ Zynn Tzy'
+global.author = '                「 ZynnBoTz-MD  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -667,7 +667,7 @@ global.rpg = {
       dog: '🐕',
       dragon: '🐉',
       elephant: '🐘',
-      emerald: '💚',
+      star: '⭐',
       exp: '✉️',
       fishingrod: '🎣',
       fox: '🦊',
